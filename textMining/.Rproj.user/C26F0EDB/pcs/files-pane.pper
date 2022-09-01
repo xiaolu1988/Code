@@ -1,0 +1,9 @@
+{
+    "path" : "~/textMining",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

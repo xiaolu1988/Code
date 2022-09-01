@@ -1,0 +1,11 @@
+"character(0)"
+"big" 1
+"bright" 1
+"earth" 1
+"galaxi" 1
+"mani" 1
+"relat" 1
+"small" 1
+"star" 1
+"univers" 1
+"world" 1
